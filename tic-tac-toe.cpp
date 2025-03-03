@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
  const char playerX='X';
-
+//understanding git commands
 const char playerO='O';
 char currentplayer=playerX;
 int r =-1;
